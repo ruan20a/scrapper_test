@@ -1,1 +1,1 @@
-<img src="[![Build Status](https://travis-ci.org/ruan20a/scrapper_test.png?branch=master)](https://travis-ci.org/ruan20a/scrapper_test)">
+{<img src="https://travis-ci.org/ruan20a/scrapper_test.png?branch=master" alt="Build Status" />}[https://travis-ci.org/ruan20a/scrapper_test]
