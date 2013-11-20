@@ -10,10 +10,16 @@ describe Scraper do
   end
 
   describe "get_hrefs" do
+    it "returns an array" do
+
+    end
+
     it "will return hrefs if you pass the url" do
       scraper = Scraper.new(url: "http://jonl.org/")
       expect(scraper.get_hrefs).to include("Hi/Engineer/Engineer.html")
     end
+
+
   end
 
   describe "get_images" do

@@ -8,7 +8,6 @@ $(document).ready(function(){
     }).done(function(data){
       links = $('<ul>')
       $('body').append(links)
-
       links.text(data.links)
       console.log(data.links)
     })
